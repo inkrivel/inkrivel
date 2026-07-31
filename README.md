@@ -51,9 +51,9 @@ end
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=inkrivel&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkrivel&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -63,7 +63,7 @@ end
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviocorrea&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inkrivel&theme=github-compact&hide_border=true"/>
 
 </p>
 
